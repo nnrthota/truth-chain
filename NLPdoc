@@ -1,0 +1,19 @@
+(one should have python 3 and 2 installed in the system for running the code)
+LIBRARIES NEEDED:
+	bottle 
+	os
+	sys
+	pymongo 
+	newspaper
+	nltk
+	*Use pip install <library name> to install the library.
+Abstract:
+This code takes in url of a newspaper or news website from the user through a website and then uses webscraping and Natural Language Processing to get the articles and generate summary statements of each article. After this each article summary is stored in a cloud database.
+Explanation:
+The whole process happens through the following steps-
+1. The url is taken from the user through a website. To access the website on localhost after running the code go to http://0.0.0.0:8080/truthchain .
+2. The url is then used to build a "newspaper" using the newspaper library.
+3. Articles are extracted from the news paper and summary statements are built.
+4. The summary statements are then stored in a cloud database(we are using MLAB here).
+
+
