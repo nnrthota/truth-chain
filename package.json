@@ -18,7 +18,7 @@
     "express-session": "*",
     "express-validator": "*",
     "handlebars": "^4.0.10",
-    "handlebars-helpers": "^0.9.8",
+    "handlebars-helpers": "^0.10.0",
     "mongodb": "*",
     "passport": "*",
     "web3": "^0.18.2",
