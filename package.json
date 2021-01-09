@@ -24,7 +24,7 @@
     "web3": "^0.18.2",
     "passport-http": "*",
     "passport-local": "*",
-    "socket.io": "^2.0.1"
+    "socket.io": "^3.0.0"
   },
   "devDependencies": {},
   "description": ""
