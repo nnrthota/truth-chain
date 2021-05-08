@@ -21,7 +21,7 @@
     "handlebars-helpers": "^0.9.8",
     "mongodb": "*",
     "passport": "*",
-    "web3": "^0.18.2",
+    "web3": "^1.2.0",
     "passport-http": "*",
     "passport-local": "*",
     "socket.io": "^2.0.1"
